@@ -1,0 +1,16 @@
+There are two type of data type in js 
+Primitive & Non-primitive(call by reference)
+
+ Primitive (call by value)
+string, Number, Boolean, Undefine, null(empty not zero), Bigint(mainly use for big number),
+symbol - used to make a Unique value
+
+
+Non-premitive (call by reference)
+Arrays, Object, functions
+
+Q- Javascript Dynamically typed language or Statically typed language?
+
+-JavaScript is a dynamically typed language. This means that variable types are determined at runtime, and you do not need to explicitly declare the type of a variable before using it. You can assign different types of values to a variable during its lifetime.
+
+https://262.ecma-international.org/5.1/#sec-11.4.3
